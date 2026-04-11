@@ -1,0 +1,23 @@
+{
+  "name": "ai-auto-testing",
+  "version": "1.0.0",
+  "description": "这是一个探索如何使用AI IDE 结合mcp实现简单自动化测试的仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzvei/ai-auto-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzvei/ai-auto-testing/issues"
+  },
+  "homepage": "https://github.com/zzvei/ai-auto-testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}
