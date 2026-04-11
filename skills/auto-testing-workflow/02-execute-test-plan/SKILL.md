@@ -12,6 +12,11 @@ Run automated plans using Playwright.
 - Run stable browser automation tasks.
 - Record run outcome and failures.
 
+## OpenClaw Guard (Important)
+- If executor is `openclaw`, read this first:
+  - `references/openclaw/README.md`
+- Then apply limit/anti-loop rules before any heavy browser action.
+
 ## Planned Modules
 - `references/run-strategy.md`
 - `references/retry-policy.md`
